@@ -1,4 +1,4 @@
-(This repository is for raising the issues occur in Azure Automation extension. For more details ,see [here](\SUPPORT.md))
+(This repository is for raising the issues occur in Azure Automation extension. For more details ,see SUPPORT.md file.)
 
 ## Contributing
 
